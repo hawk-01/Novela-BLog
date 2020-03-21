@@ -6,7 +6,7 @@ module.exports = {
     description: `Welcome To Hawk Blog`,
     hero: {
       heading: `Hello There, Nice To See You`,
-      maxWidth: 652,
+      maxWidth: 962,
     },
     social: [
       {

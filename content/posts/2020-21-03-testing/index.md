@@ -2,7 +2,7 @@
 title: Welcome To My Blog
 author: RawHawk01
 date: 2020-03-21
-hero: https://i.picsum.photos/id/883/1920/1080.jpg
+hero: ./images/hero.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 ---
 
@@ -177,4 +177,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ```bash
 apt update 
+npm install -global gatsby-cli 
+apt upgade --list-upgradable
+cat lol.txt | grep lol
 ```
