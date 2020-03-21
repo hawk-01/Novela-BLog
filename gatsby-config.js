@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `Hawk Blog`,
     name: `Hawk Blog`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `http://rawhawk.tech`,
     description: `Welcome To Hawk Blog`,
     hero: {
-      heading: `Welcome To Hawk Blog`,
+      heading: `Hello There, Nice To See You`,
       maxWidth: 652,
     },
     social: [
@@ -18,16 +18,8 @@ module.exports = {
         url: `https://github.com/lol`,
       },
       {
-        name: `instagram`,
-        url: `https://instagram.com/lol`,
-      },
-      {
         name: `linkedin`,
         url: `https://www.linkedin.com/lol`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
       },
     ],
   },
